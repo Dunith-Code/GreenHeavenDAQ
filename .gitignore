@@ -1,0 +1,33 @@
+# Arduino IDE & PlatformIO files/folders to ignore
+*.ino.bin
+*.ino.elf
+*.ino.hex
+*.ino.with_bootloader.bin
+*.ino.with_bootloader.hex
+
+# Build folders
+/build/
+/.pio/
+/.pioenvs/
+/.piodevice.json
+
+# Arduino IDE temporary files
+*.ino.cpp.d
+*.ino.cpp.o
+
+# VS Code + PlatformIO
+.vscode/
+.clang_complete
+.pio/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# General
+*.tmp
+*.bak
+*.swp
