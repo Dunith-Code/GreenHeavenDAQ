@@ -85,3 +85,7 @@ To extend the system's data processing and visualization capabilities, a separat
 | **Data Automation** | Continuous, automated data logging eliminates the need for manual checks. |
 | **Risk Prevention** | Automated alerts notify the user immediately of potential problems (e.g., temperature spikes). | 
 | **Informed Decisions** | Users can make precise, data-driven watering and nutrient adjustments based on real-time information. |
+
+### 👥 Acknowledging
+
+I would like to express my sincere gratitude to the **Department of Instrumentation & Automation**, **Faculty of Technology, University of Colombo**, for providing me with the opportunity, guidance, and resources necessary to successfully complete this project.
