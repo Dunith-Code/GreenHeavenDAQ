@@ -76,7 +76,7 @@ To extend the system's data processing and visualization capabilities, a separat
 * **Files:** The main project files for this interface are located in the `labview_interface_modified/` directory.
 
 * **LabVIEW Interface**
-![LabVIEW Interface](./images/labview_ui2.jpg)
+![LabVIEW Interface](./images/labview_ui2.png)
 
 ### 📈 Expected Outcomes and Benefits
 
