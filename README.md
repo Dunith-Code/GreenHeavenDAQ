@@ -1,6 +1,6 @@
 # 🌿 GreenHeavenDAQ: Smart Home Garden Monitoring System
 
-### ✨ Project Summary
+### 📋 Project Summary
 GreenHeavenDAQ is a sophisticated, automated environmental monitoring system designed for home gardens. Its primary function is Automated Data Acquisition (DAQ), providing continuous, real-time intelligence on critical environmental and water parameters. Built around the ESP32 microcontroller, the system provides real-time alerting and features an intuitive web-based dashboard for advanced visualization and analysis.
 
 * **GreenHeaven Logo**
