@@ -4,9 +4,9 @@
 GreenHeavenDAQ is a sophisticated, automated environmental monitoring system designed for home gardens. Its primary function is Automated Data Acquisition (DAQ), providing continuous, real-time intelligence on critical environmental and water parameters. Built around the ESP32 microcontroller, the system provides real-time alerting and features an intuitive web-based dashboard for advanced visualization and analysis.
 
 * **GreenHeaven Logo**
-
-![GreenHeaven Logo](./images/GreenHeaven_logo.jpg)
-
+<div align="center">
+<img src="./images/GreenHeaven_logo.jpg" alt="GreenHeaven Logo" width="320">
+</div>
 
 |  | Role | Key Feature |
 | :--- | :--- | :--- |
@@ -29,13 +29,19 @@ The system continuously monitors five essential environmental and water paramete
 
 * **GreenHeaven Circuit**
 
-![GreenHeaven Circuit](./images/GreenHeavenCircuit.png)
+<div align="center">
+<img src="./images/GreenHeavenCircuit.png" alt="GreenHeaven Circuit" width="550">
+</div>
 
 * **Physical Prototype Setup**
 
-![Physical Prototype Setup](./images/physical_setup_1.jpg)
-![Physical Prototype Setup](./images/physical_setup_2.jpg)
-![Physical Prototype Setup](./images/physical_setup_3.jpg)
+<div align="center">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./images/physical_setup_1.jpg" alt="Physical Setup 1" width="280">
+  <img src="./images/physical_setup_2.jpg" alt="Physical Setup 2" width="280">
+  <img src="./images/physical_setup_3.jpg" alt="Physical Setup 3" width="280">
+</div>
+</div>
 
 ### 2. Automated Alerting System
 The core control function is the non-physical alerting mechanism:
@@ -56,14 +62,16 @@ A local web server hosted on the ESP32 provides a powerful user experience:
 
 * **Web Dashboard UI**
 
-```
-![Web Dashboard UI](./images/web_ui_1.png)
-![Web Dashboard UI](./images/web_ui_2.png)
-![Web Dashboard UI](./images/web_ui_3.png)
-![Web Dashboard UI](./images/web_ui_4.png)
-![Web Dashboard UI](./images/web_ui_5.png)
-![Web Dashboard UI](./images/web_ui_6.png)
-```
+<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./images/web_ui_1.png" alt="Web UI 1" width="400">
+  <img src="./images/web_ui_2.png" alt="Web UI 2" width="400">
+  <img src="./images/web_ui_3.png" alt="Web UI 3" width="400">
+  <img src="./images/web_ui_4.png" alt="Web UI 4" width="400">
+  <img src="./images/web_ui_5.png" alt="Web UI 5" width="400">
+  <img src="./images/web_ui_6.png" alt="Web UI 6" width="400">
+</div>
+</div>
 
 
 ### 🗃️ LabVIEW Data Interface (GreenHeavenDAQ Feature)
@@ -76,7 +84,9 @@ To extend the system's data processing and visualization capabilities, a separat
 * **Files:** The main project files for this interface are located in the `labview_interface_modified/` directory.
 
 * **LabVIEW Interface**
-![LabVIEW Interface](./images/labview_ui2.png)
+<div align="center">
+<img src="./images/labview_ui2.png" alt="LabVIEW Interface" width="550">
+</div>
 
 ### 📈 Expected Outcomes and Benefits
 
